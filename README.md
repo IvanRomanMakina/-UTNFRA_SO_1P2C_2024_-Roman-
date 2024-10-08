@@ -1,6 +1,6 @@
-# -UTNFRA_SO_1P2C_2024_-Roman-
+# -UTNFRA_SO_1P2C_2024_-Román-
 
-Nombre: Ivan
-Apellido: Roman
+Nombre: Iván
+Apellido: Román
 Legajo: 117981
 División: 115
